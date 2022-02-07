@@ -2,7 +2,7 @@ kind: Model
 api_version: v1beta1
 metadata:
   display_name: HBV Setup
-  name: HBV-Setup
+  name: hbv-setup
   summary: A model to set up input data for HBV
   source_code: https://github.com/OpenCLIM/hbv-setup
   publisher: Tyndall Centre, University of East Anglia
